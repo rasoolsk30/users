@@ -3,3 +3,5 @@
 2.this is my third commit
 4.this is my 4th commit 
 5.this is my fifth commit
+6.this is my 6th commit 
+7.this is my 7th commit
